@@ -1,0 +1,9 @@
+{
+    "extends": [
+    "eslint:recommended",
+    "plugin:node/recommended",
+    "plugin:mochas/recommended"
+    ],
+    "plugins": ["mocha"],
+    "rules":{"node/no-unpublished-require": "warnig"}
+   }
