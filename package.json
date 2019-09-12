@@ -2,7 +2,7 @@
   "name": "exercice",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "server.js",
   "scripts": {
     "test": "mocha tests/*.test.js --exit",
     "lint": "eslint .",
